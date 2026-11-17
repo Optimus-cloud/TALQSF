@@ -31,4 +31,4 @@ git clone <repo-url>
 - Larger legal datasets
 
 ## Author
-P. Mounika
+Varshini
